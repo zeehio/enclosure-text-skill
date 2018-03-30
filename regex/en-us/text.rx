@@ -1,0 +1,2 @@
+write (?P<text>.*)
+type (?P<text>.*)

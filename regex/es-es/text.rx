@@ -1,0 +1,2 @@
+escribe (?P<text>.*)
+muestra (?P<text>.*)
